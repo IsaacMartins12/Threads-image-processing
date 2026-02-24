@@ -1,5 +1,7 @@
 # Applying parallel computing in image processing
 
+![alt](image.png)
+
 ## 📋 Description
 
 This repository aims to show in a simple way how the use of parallel programming can help in image processing in computer vision systems.
